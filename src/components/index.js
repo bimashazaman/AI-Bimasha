@@ -9,6 +9,10 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com
+
+
 export {
   Navbar,
   Billing,
@@ -21,3 +25,6 @@ export {
   Testimonials,
   Hero,
 };
+
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com

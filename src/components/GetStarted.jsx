@@ -1,6 +1,10 @@
 import styles from "../style";
 import { arrowUp } from "../assets";
 
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com
+
+
 const GetStarted = () => (
   <div className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}>
     <div className={`${styles.flexCenter} flex-col bg-black w-[100%] h-[100%] rounded-full`}>
@@ -17,5 +21,9 @@ const GetStarted = () => (
     </div>
   </div>
 );
+
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com
+
 
 export default GetStarted;

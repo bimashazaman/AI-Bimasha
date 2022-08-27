@@ -3,6 +3,9 @@ import { useState } from 'react'
 import { close, logo, menu } from '../assets'
 import { navLinks } from '../constants'
 
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com
+
 
 const Nav = () => {
   const [active, setActive] = useState("Home");
@@ -59,5 +62,9 @@ const Nav = () => {
    </>
   )
 }
+
+// Created by Bimasha Zaman 
+// developerbimasha@gmail.com
+
 
 export default Nav
